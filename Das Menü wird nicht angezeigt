@@ -1,0 +1,12 @@
+Seit einer Stunde ist in Google-chrome das Menü des FoE-Helfers nicht mehr sichtbar. 
+Ich hab versucht:
+- FoE neu zu laden. 
+- mich auszuloggen, Google-Chrome zu schließen, neu zu starten und mich in FoE neu anzumelden. 
+Nix funktioniert. 
+
+1.175.28fad09de71 (01.04.2020 10:51), 
+OttoderGroße (8501553), de17, de_DE, WEB 7,1,1,0, 
+Windows 10, Chrome/80.0.3987.162, 1366x625, 
+OpenGL Vendor=WebKit Version=WebGL 2.0 (OpenGL ES 3.0 Chromium) 
+Renderer=WebKit WebGL GLSL=WebGL GLSL ES 3.00 (OpenGL ES GLSL ES 3.0 Chromium) (512 MB VRAM)
+
